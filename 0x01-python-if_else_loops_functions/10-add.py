@@ -2,7 +2,7 @@
 
 # 10-add.py
 
-def add(a,b):
+def add(a, b):
 
     """Return sum of a and b."""
 
