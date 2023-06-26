@@ -4,5 +4,7 @@ def raise_exception():
 
     """Raise a TypeError exception."""
 
-
-raise TypeError
+    try:
+        raise None
+    except Exception:
+        raise TypeError
